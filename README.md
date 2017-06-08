@@ -13,3 +13,9 @@ See https://en.wikipedia.org/wiki/Hamming_code#General_algorithm
 Generate hamming matrix(parity-check matrix), part of hmGenerator(m), is inspired from https://kr.mathworks.com/matlabcentral/fileexchange/40208-hamming-code
 
 and the author is Marc-Andre Robichaud Copyright (c) 2013, Marc-Andre Robichaud All rights reserved.
+
+
+This project is under GNU General Public License v3.0
+
+Copyright (c) 2017, In-Sung Jun 
+All rights reserved.
